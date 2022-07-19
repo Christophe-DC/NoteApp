@@ -1,4 +1,4 @@
-package com.cdcoding.noteapp
+package com.cdcoding.noteapp.feature_note.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
